@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Intellij Project Files/com.fastsocket.iml" filepath="$PROJECT_DIR$/../../Intellij Project Files/com.fastsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Intellij Project Files/com.greetings.iml" filepath="$PROJECT_DIR$/../../Intellij Project Files/com.greetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Intellij Project Files/com.socket.iml" filepath="$PROJECT_DIR$/../../Intellij Project Files/com.socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-services.iml" filepath="$PROJECT_DIR$/modules-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Intellij Project Files/org.astro.iml" filepath="$PROJECT_DIR$/../../Intellij Project Files/org.astro.iml" />
+    </modules>
+  </component>
+</project>

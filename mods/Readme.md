@@ -1,0 +1,1 @@
+The modules jars will be put here during the maven package phase. 
